@@ -1,0 +1,2894 @@
+[
+  {
+    "id": "S001",
+    "name": "Cloudtail India",
+    "platform": "Amazon",
+    "compliance_score": 95,
+    "star_rating": 4.8,
+    "is_verified": true,
+    "product_count": 7,
+    "active_since": "30/12/2023",
+    "total_compliance_checks": 16,
+    "products": [
+      {
+        "id": "P0001",
+        "title": "Nestle Personal Care Item #1",
+        "brand": "Nestle",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b94517",
+        "net_quantity": "99 ml",
+        "unit": "ml",
+        "manufacturer": "Nestle India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@nestle.com",
+          "phone": "1800-64-1520"
+        },
+        "mfg_date": "05/07/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "30/07/2026"
+      },
+      {
+        "id": "P0002",
+        "title": "Nestle Confectionery Item #2",
+        "brand": "Nestle",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b94514",
+        "net_quantity": "439 kg",
+        "unit": "kg",
+        "manufacturer": "Nestle India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@nestle.com",
+          "phone": "1800-67-5557"
+        },
+        "mfg_date": "29/07/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "17/06/2026"
+      },
+      {
+        "id": "P0003",
+        "title": "Nestle Staples Item #3",
+        "brand": "Nestle",
+        "category": "Staples",
+        "image_url": null,
+        "mrp": "\u20b9887",
+        "net_quantity": "104 L",
+        "unit": "L",
+        "manufacturer": "Nestle India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@nestle.com",
+          "phone": "1800-22-6881"
+        },
+        "mfg_date": "17/08/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "27/06/2026"
+      },
+      {
+        "id": "P0004",
+        "title": "Nestle Snacks Item #4",
+        "brand": "Nestle",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "859 g",
+        "unit": "g",
+        "manufacturer": "Nestle India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": "09/11/2024",
+        "importer": null,
+        "compliance_score": 76,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "MRP",
+          "Consumer Care Details"
+        ],
+        "last_checked_date": "09/06/2026"
+      },
+      {
+        "id": "P0005",
+        "title": "Nestle Biscuits Item #5",
+        "brand": "Nestle",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b92420",
+        "net_quantity": "91 Units",
+        "unit": "Units",
+        "manufacturer": "Nestle India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@nestle.com",
+          "phone": "1800-39-2654"
+        },
+        "mfg_date": "11/07/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "18/07/2026"
+      },
+      {
+        "id": "P0006",
+        "title": "Nestle Beverages Item #6",
+        "brand": "Nestle",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b9634",
+        "net_quantity": "633 ml",
+        "unit": "ml",
+        "manufacturer": "Nestle India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@nestle.com",
+          "phone": "1800-31-9751"
+        },
+        "mfg_date": "27/11/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "25/07/2026"
+      },
+      {
+        "id": "P0007",
+        "title": "Nestle Beverages Item #7",
+        "brand": "Nestle",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b9508",
+        "net_quantity": "244 L",
+        "unit": "L",
+        "manufacturer": "Nestle India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@nestle.com",
+          "phone": "1800-14-6168"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 87,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "10/07/2026"
+      }
+    ]
+  },
+  {
+    "id": "S002",
+    "name": "Appario Retail",
+    "platform": "Amazon",
+    "compliance_score": 91,
+    "star_rating": 4.5,
+    "is_verified": true,
+    "product_count": 11,
+    "active_since": "11/12/2024",
+    "total_compliance_checks": 19,
+    "products": [
+      {
+        "id": "P0008",
+        "title": "Amul Confectionery Item #8",
+        "brand": "Amul",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b92070",
+        "net_quantity": null,
+        "unit": "L",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": null,
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-81-9830"
+        },
+        "mfg_date": "08/11/2025",
+        "importer": null,
+        "compliance_score": 80,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity",
+          "Manufacturer Address"
+        ],
+        "last_checked_date": "18/06/2026"
+      },
+      {
+        "id": "P0009",
+        "title": "Amul Dairy Item #9",
+        "brand": "Amul",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b94224",
+        "net_quantity": "515 Units",
+        "unit": "Units",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-16-2796"
+        },
+        "mfg_date": "01/03/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "25/06/2026"
+      },
+      {
+        "id": "P0010",
+        "title": "Amul Staples Item #10",
+        "brand": "Amul",
+        "category": "Staples",
+        "image_url": null,
+        "mrp": "\u20b94384",
+        "net_quantity": "267 L",
+        "unit": "L",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-11-2876"
+        },
+        "mfg_date": "05/09/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "09/06/2026"
+      },
+      {
+        "id": "P0011",
+        "title": "Amul Snacks Item #11",
+        "brand": "Amul",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "522 ml",
+        "unit": "ml",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-32-9317"
+        },
+        "mfg_date": null,
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 76,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "MRP",
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "07/06/2026"
+      },
+      {
+        "id": "P0012",
+        "title": "Amul Electronics Item #12",
+        "brand": "Amul",
+        "category": "Electronics",
+        "image_url": null,
+        "mrp": "\u20b91373",
+        "net_quantity": null,
+        "unit": "ml",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-77-1009"
+        },
+        "mfg_date": "29/11/2024",
+        "importer": null,
+        "compliance_score": 87,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity"
+        ],
+        "last_checked_date": "15/07/2026"
+      },
+      {
+        "id": "P0013",
+        "title": "Amul Beverages Item #13",
+        "brand": "Amul",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b92011",
+        "net_quantity": "69 g",
+        "unit": "g",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-82-2290"
+        },
+        "mfg_date": "09/05/2026",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "19/06/2026"
+      },
+      {
+        "id": "P0014",
+        "title": "Amul Beverages Item #14",
+        "brand": "Amul",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b94553",
+        "net_quantity": null,
+        "unit": "g",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-43-9645"
+        },
+        "mfg_date": "21/11/2024",
+        "importer": null,
+        "compliance_score": 85,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity"
+        ],
+        "last_checked_date": "08/07/2026"
+      },
+      {
+        "id": "P0015",
+        "title": "Amul Confectionery Item #15",
+        "brand": "Amul",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b94289",
+        "net_quantity": "472 Units",
+        "unit": "Units",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": null,
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-25-5061"
+        },
+        "mfg_date": "17/12/2025",
+        "importer": null,
+        "compliance_score": 70,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin",
+          "Manufacturer Address"
+        ],
+        "last_checked_date": "31/07/2026"
+      },
+      {
+        "id": "P0016",
+        "title": "Amul Biscuits Item #16",
+        "brand": "Amul",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b9108",
+        "net_quantity": "82 g",
+        "unit": "g",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-90-1964"
+        },
+        "mfg_date": "13/12/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "31/07/2026"
+      },
+      {
+        "id": "P0017",
+        "title": "Amul Personal Care Item #17",
+        "brand": "Amul",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b91805",
+        "net_quantity": "562 ml",
+        "unit": "ml",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-83-8744"
+        },
+        "mfg_date": "29/11/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "15/06/2026"
+      },
+      {
+        "id": "P0018",
+        "title": "Amul Beverages Item #18",
+        "brand": "Amul",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b92952",
+        "net_quantity": "443 L",
+        "unit": "L",
+        "manufacturer": "Amul India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@amul.com",
+          "phone": "1800-69-1887"
+        },
+        "mfg_date": "14/09/2024",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "24/06/2026"
+      }
+    ]
+  },
+  {
+    "id": "S003",
+    "name": "RetailNet",
+    "platform": "Flipkart",
+    "compliance_score": 90,
+    "star_rating": 4.5,
+    "is_verified": true,
+    "product_count": 11,
+    "active_since": "08/01/2023",
+    "total_compliance_checks": 51,
+    "products": [
+      {
+        "id": "P0019",
+        "title": "Coca-Cola Electronics Item #19",
+        "brand": "Coca-Cola",
+        "category": "Electronics",
+        "image_url": null,
+        "mrp": "\u20b92331",
+        "net_quantity": "483 kg",
+        "unit": "kg",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@coca-cola.com",
+          "phone": "1800-19-8260"
+        },
+        "mfg_date": "18/01/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 90,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin"
+        ],
+        "last_checked_date": "29/07/2026"
+      },
+      {
+        "id": "P0020",
+        "title": "Coca-Cola Personal Care Item #20",
+        "brand": "Coca-Cola",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b94028",
+        "net_quantity": null,
+        "unit": "Units",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@coca-cola.com",
+          "phone": "1800-37-7570"
+        },
+        "mfg_date": "05/06/2026",
+        "importer": null,
+        "compliance_score": 86,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity"
+        ],
+        "last_checked_date": "25/07/2026"
+      },
+      {
+        "id": "P0021",
+        "title": "Coca-Cola Dairy Item #21",
+        "brand": "Coca-Cola",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b92386",
+        "net_quantity": "443 g",
+        "unit": "g",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@coca-cola.com",
+          "phone": "1800-81-8973"
+        },
+        "mfg_date": "27/02/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "23/07/2026"
+      },
+      {
+        "id": "P0022",
+        "title": "Coca-Cola Snacks Item #22",
+        "brand": "Coca-Cola",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": "\u20b9518",
+        "net_quantity": "61 kg",
+        "unit": "kg",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@coca-cola.com",
+          "phone": "1800-71-9238"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 87,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "07/06/2026"
+      },
+      {
+        "id": "P0023",
+        "title": "Coca-Cola Staples Item #23",
+        "brand": "Coca-Cola",
+        "category": "Staples",
+        "image_url": null,
+        "mrp": "\u20b9611",
+        "net_quantity": "619 g",
+        "unit": "g",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@coca-cola.com",
+          "phone": "1800-96-4853"
+        },
+        "mfg_date": "17/06/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "28/07/2026"
+      },
+      {
+        "id": "P0024",
+        "title": "Coca-Cola Confectionery Item #24",
+        "brand": "Coca-Cola",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b92186",
+        "net_quantity": "219 Units",
+        "unit": "Units",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 74,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture",
+          "Consumer Care Details"
+        ],
+        "last_checked_date": "20/06/2026"
+      },
+      {
+        "id": "P0025",
+        "title": "Coca-Cola Biscuits Item #25",
+        "brand": "Coca-Cola",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b93795",
+        "net_quantity": "333 kg",
+        "unit": "kg",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@coca-cola.com",
+          "phone": "1800-19-1152"
+        },
+        "mfg_date": "22/04/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "26/06/2026"
+      },
+      {
+        "id": "P0026",
+        "title": "Coca-Cola Electronics Item #26",
+        "brand": "Coca-Cola",
+        "category": "Electronics",
+        "image_url": null,
+        "mrp": "\u20b92051",
+        "net_quantity": "388 g",
+        "unit": "g",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": null,
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@coca-cola.com",
+          "phone": "1800-46-3584"
+        },
+        "mfg_date": "13/05/2025",
+        "importer": null,
+        "compliance_score": 91,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Manufacturer Address"
+        ],
+        "last_checked_date": "12/06/2026"
+      },
+      {
+        "id": "P0027",
+        "title": "Coca-Cola Snacks Item #27",
+        "brand": "Coca-Cola",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": "\u20b9898",
+        "net_quantity": "971 Units",
+        "unit": "Units",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@coca-cola.com",
+          "phone": "1800-43-2891"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 88,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "09/06/2026"
+      },
+      {
+        "id": "P0028",
+        "title": "Coca-Cola Electronics Item #28",
+        "brand": "Coca-Cola",
+        "category": "Electronics",
+        "image_url": null,
+        "mrp": "\u20b92858",
+        "net_quantity": "218 Units",
+        "unit": "Units",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@coca-cola.com",
+          "phone": "1800-91-5325"
+        },
+        "mfg_date": "05/03/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "04/07/2026"
+      },
+      {
+        "id": "P0029",
+        "title": "Coca-Cola Snacks Item #29",
+        "brand": "Coca-Cola",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "799 g",
+        "unit": "g",
+        "manufacturer": "Coca-Cola India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@coca-cola.com",
+          "phone": "1800-91-5291"
+        },
+        "mfg_date": "20/02/2026",
+        "importer": null,
+        "compliance_score": 74,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "MRP",
+          "Importer Details"
+        ],
+        "last_checked_date": "18/06/2026"
+      }
+    ]
+  },
+  {
+    "id": "S004",
+    "name": "SuperComNet",
+    "platform": "Flipkart",
+    "compliance_score": 92,
+    "star_rating": 4.6,
+    "is_verified": true,
+    "product_count": 12,
+    "active_since": "28/05/2024",
+    "total_compliance_checks": 41,
+    "products": [
+      {
+        "id": "P0030",
+        "title": "Dabur Personal Care Item #30",
+        "brand": "Dabur",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b93074",
+        "net_quantity": "606 g",
+        "unit": "g",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": "06/03/2026",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 92,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Consumer Care Details"
+        ],
+        "last_checked_date": "08/07/2026"
+      },
+      {
+        "id": "P0031",
+        "title": "Dabur Staples Item #31",
+        "brand": "Dabur",
+        "category": "Staples",
+        "image_url": null,
+        "mrp": "\u20b92094",
+        "net_quantity": "692 g",
+        "unit": "g",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": null,
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-23-6794"
+        },
+        "mfg_date": "08/01/2025",
+        "importer": null,
+        "compliance_score": 89,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Manufacturer Address"
+        ],
+        "last_checked_date": "09/06/2026"
+      },
+      {
+        "id": "P0032",
+        "title": "Dabur Dairy Item #32",
+        "brand": "Dabur",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b93427",
+        "net_quantity": null,
+        "unit": "Units",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-32-6442"
+        },
+        "mfg_date": "09/06/2025",
+        "importer": null,
+        "compliance_score": 90,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity"
+        ],
+        "last_checked_date": "14/06/2026"
+      },
+      {
+        "id": "P0033",
+        "title": "Dabur Confectionery Item #33",
+        "brand": "Dabur",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "237 ml",
+        "unit": "ml",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-68-6728"
+        },
+        "mfg_date": "26/09/2025",
+        "importer": null,
+        "compliance_score": 70,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Importer Details",
+          "MRP"
+        ],
+        "last_checked_date": "13/06/2026"
+      },
+      {
+        "id": "P0034",
+        "title": "Dabur Confectionery Item #34",
+        "brand": "Dabur",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b92332",
+        "net_quantity": "895 kg",
+        "unit": "kg",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-45-6753"
+        },
+        "mfg_date": "17/10/2024",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "03/07/2026"
+      },
+      {
+        "id": "P0035",
+        "title": "Dabur Dairy Item #35",
+        "brand": "Dabur",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b91512",
+        "net_quantity": "604 Units",
+        "unit": "Units",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-14-2776"
+        },
+        "mfg_date": "02/12/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "08/07/2026"
+      },
+      {
+        "id": "P0036",
+        "title": "Dabur Biscuits Item #36",
+        "brand": "Dabur",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b92136",
+        "net_quantity": "55 ml",
+        "unit": "ml",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-65-1027"
+        },
+        "mfg_date": "18/02/2025",
+        "importer": null,
+        "compliance_score": 89,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin"
+        ],
+        "last_checked_date": "06/06/2026"
+      },
+      {
+        "id": "P0037",
+        "title": "Dabur Confectionery Item #37",
+        "brand": "Dabur",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b92510",
+        "net_quantity": "529 ml",
+        "unit": "ml",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": null,
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": "22/09/2025",
+        "importer": null,
+        "compliance_score": 82,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Consumer Care Details",
+          "Manufacturer Address"
+        ],
+        "last_checked_date": "23/06/2026"
+      },
+      {
+        "id": "P0038",
+        "title": "Dabur Dairy Item #38",
+        "brand": "Dabur",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b91621",
+        "net_quantity": "440 ml",
+        "unit": "ml",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-58-3851"
+        },
+        "mfg_date": "12/11/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "29/06/2026"
+      },
+      {
+        "id": "P0039",
+        "title": "Dabur Snacks Item #39",
+        "brand": "Dabur",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": "\u20b91771",
+        "net_quantity": "450 L",
+        "unit": "L",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-84-6279"
+        },
+        "mfg_date": "15/04/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "07/07/2026"
+      },
+      {
+        "id": "P0040",
+        "title": "Dabur Beverages Item #40",
+        "brand": "Dabur",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b92374",
+        "net_quantity": "537 kg",
+        "unit": "kg",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-91-6491"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 91,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "30/07/2026"
+      },
+      {
+        "id": "P0041",
+        "title": "Dabur Confectionery Item #41",
+        "brand": "Dabur",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b9428",
+        "net_quantity": "260 ml",
+        "unit": "ml",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-88-2193"
+        },
+        "mfg_date": "25/04/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "09/07/2026"
+      }
+    ]
+  },
+  {
+    "id": "S005",
+    "name": "Omnitech Retail",
+    "platform": "Amazon",
+    "compliance_score": 91,
+    "star_rating": 4.5,
+    "is_verified": true,
+    "product_count": 12,
+    "active_since": "19/02/2024",
+    "total_compliance_checks": 23,
+    "products": [
+      {
+        "id": "P0042",
+        "title": "HUL Confectionery Item #42",
+        "brand": "HUL",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b93532",
+        "net_quantity": "234 kg",
+        "unit": "kg",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-99-9486"
+        },
+        "mfg_date": "16/04/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "01/08/2026"
+      },
+      {
+        "id": "P0043",
+        "title": "HUL Confectionery Item #43",
+        "brand": "HUL",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b94538",
+        "net_quantity": "466 g",
+        "unit": "g",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": null,
+        "consumer_care": null,
+        "mfg_date": "05/04/2025",
+        "importer": null,
+        "compliance_score": 72,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin",
+          "Consumer Care Details"
+        ],
+        "last_checked_date": "07/07/2026"
+      },
+      {
+        "id": "P0044",
+        "title": "HUL Snacks Item #44",
+        "brand": "HUL",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": "\u20b92009",
+        "net_quantity": "291 kg",
+        "unit": "kg",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-19-5681"
+        },
+        "mfg_date": "07/12/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "18/07/2026"
+      },
+      {
+        "id": "P0045",
+        "title": "HUL Biscuits Item #45",
+        "brand": "HUL",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b91944",
+        "net_quantity": "402 ml",
+        "unit": "ml",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-29-4505"
+        },
+        "mfg_date": "31/05/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "09/07/2026"
+      },
+      {
+        "id": "P0046",
+        "title": "HUL Dairy Item #46",
+        "brand": "HUL",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b94834",
+        "net_quantity": "978 ml",
+        "unit": "ml",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-12-7232"
+        },
+        "mfg_date": "03/04/2025",
+        "importer": null,
+        "compliance_score": 86,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin"
+        ],
+        "last_checked_date": "04/08/2026"
+      },
+      {
+        "id": "P0047",
+        "title": "HUL Biscuits Item #47",
+        "brand": "HUL",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b94049",
+        "net_quantity": "234 ml",
+        "unit": "ml",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 78,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Consumer Care Details",
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "08/07/2026"
+      },
+      {
+        "id": "P0048",
+        "title": "HUL Beverages Item #48",
+        "brand": "HUL",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b91095",
+        "net_quantity": null,
+        "unit": "g",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-78-1441"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 70,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture",
+          "Net Quantity"
+        ],
+        "last_checked_date": "07/06/2026"
+      },
+      {
+        "id": "P0049",
+        "title": "HUL Dairy Item #49",
+        "brand": "HUL",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b91161",
+        "net_quantity": "897 Units",
+        "unit": "Units",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-33-1823"
+        },
+        "mfg_date": "11/11/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "11/07/2026"
+      },
+      {
+        "id": "P0050",
+        "title": "HUL Biscuits Item #50",
+        "brand": "HUL",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b92329",
+        "net_quantity": "780 kg",
+        "unit": "kg",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-63-5133"
+        },
+        "mfg_date": "13/05/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "05/07/2026"
+      },
+      {
+        "id": "P0051",
+        "title": "HUL Personal Care Item #51",
+        "brand": "HUL",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b9379",
+        "net_quantity": "782 Units",
+        "unit": "Units",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-41-4266"
+        },
+        "mfg_date": null,
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 91,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "12/06/2026"
+      },
+      {
+        "id": "P0052",
+        "title": "HUL Personal Care Item #52",
+        "brand": "HUL",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b94670",
+        "net_quantity": "980 Units",
+        "unit": "Units",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-69-5198"
+        },
+        "mfg_date": "23/07/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "25/07/2026"
+      },
+      {
+        "id": "P0053",
+        "title": "HUL Electronics Item #53",
+        "brand": "HUL",
+        "category": "Electronics",
+        "image_url": null,
+        "mrp": "\u20b92605",
+        "net_quantity": "599 kg",
+        "unit": "kg",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-58-7498"
+        },
+        "mfg_date": "13/01/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "31/07/2026"
+      }
+    ]
+  },
+  {
+    "id": "S006",
+    "name": "WS Retail Services",
+    "platform": "Flipkart",
+    "compliance_score": 88,
+    "star_rating": 4.4,
+    "is_verified": false,
+    "product_count": 10,
+    "active_since": "30/01/2024",
+    "total_compliance_checks": 45,
+    "products": [
+      {
+        "id": "P0054",
+        "title": "Dabur Electronics Item #54",
+        "brand": "Dabur",
+        "category": "Electronics",
+        "image_url": null,
+        "mrp": "\u20b93085",
+        "net_quantity": "80 Units",
+        "unit": "Units",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-92-6590"
+        },
+        "mfg_date": "23/07/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "11/06/2026"
+      },
+      {
+        "id": "P0055",
+        "title": "Dabur Dairy Item #55",
+        "brand": "Dabur",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b91492",
+        "net_quantity": null,
+        "unit": "L",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-76-5425"
+        },
+        "mfg_date": null,
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 72,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture",
+          "Net Quantity"
+        ],
+        "last_checked_date": "26/06/2026"
+      },
+      {
+        "id": "P0056",
+        "title": "Dabur Beverages Item #56",
+        "brand": "Dabur",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b92334",
+        "net_quantity": null,
+        "unit": "L",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": null,
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-67-4995"
+        },
+        "mfg_date": "16/04/2025",
+        "importer": null,
+        "compliance_score": 82,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Manufacturer Address",
+          "Net Quantity"
+        ],
+        "last_checked_date": "29/06/2026"
+      },
+      {
+        "id": "P0057",
+        "title": "Dabur Dairy Item #57",
+        "brand": "Dabur",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b92956",
+        "net_quantity": "826 ml",
+        "unit": "ml",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-53-5581"
+        },
+        "mfg_date": "02/12/2024",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 89,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin"
+        ],
+        "last_checked_date": "21/06/2026"
+      },
+      {
+        "id": "P0058",
+        "title": "Dabur Snacks Item #58",
+        "brand": "Dabur",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": "\u20b94052",
+        "net_quantity": null,
+        "unit": "Units",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-40-8800"
+        },
+        "mfg_date": "12/10/2024",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 86,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity"
+        ],
+        "last_checked_date": "20/06/2026"
+      },
+      {
+        "id": "P0059",
+        "title": "Dabur Beverages Item #59",
+        "brand": "Dabur",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b93362",
+        "net_quantity": "718 L",
+        "unit": "L",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-49-7046"
+        },
+        "mfg_date": "07/04/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "30/06/2026"
+      },
+      {
+        "id": "P0060",
+        "title": "Dabur Biscuits Item #60",
+        "brand": "Dabur",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b92561",
+        "net_quantity": "267 L",
+        "unit": "L",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-25-4155"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 76,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture",
+          "Country of Origin"
+        ],
+        "last_checked_date": "15/07/2026"
+      },
+      {
+        "id": "P0061",
+        "title": "Dabur Electronics Item #61",
+        "brand": "Dabur",
+        "category": "Electronics",
+        "image_url": null,
+        "mrp": "\u20b92315",
+        "net_quantity": null,
+        "unit": "Units",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-85-9595"
+        },
+        "mfg_date": "01/12/2024",
+        "importer": null,
+        "compliance_score": 85,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity"
+        ],
+        "last_checked_date": "17/07/2026"
+      },
+      {
+        "id": "P0062",
+        "title": "Dabur Electronics Item #62",
+        "brand": "Dabur",
+        "category": "Electronics",
+        "image_url": null,
+        "mrp": "\u20b9165",
+        "net_quantity": "735 kg",
+        "unit": "kg",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-26-5494"
+        },
+        "mfg_date": "19/06/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "01/08/2026"
+      },
+      {
+        "id": "P0063",
+        "title": "Dabur Snacks Item #63",
+        "brand": "Dabur",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "490 kg",
+        "unit": "kg",
+        "manufacturer": "Dabur India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@dabur.com",
+          "phone": "1800-66-6582"
+        },
+        "mfg_date": "28/01/2026",
+        "importer": null,
+        "compliance_score": 88,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "MRP"
+        ],
+        "last_checked_date": "01/08/2026"
+      }
+    ]
+  },
+  {
+    "id": "S007",
+    "name": "RK World Infocom",
+    "platform": "Flipkart",
+    "compliance_score": 86,
+    "star_rating": 4.3,
+    "is_verified": false,
+    "product_count": 7,
+    "active_since": "19/05/2025",
+    "total_compliance_checks": 29,
+    "products": [
+      {
+        "id": "P0064",
+        "title": "Pepsico Dairy Item #64",
+        "brand": "Pepsico",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b94660",
+        "net_quantity": null,
+        "unit": "L",
+        "manufacturer": "Pepsico India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@pepsico.com",
+          "phone": "1800-20-5066"
+        },
+        "mfg_date": "05/04/2026",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 90,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity"
+        ],
+        "last_checked_date": "30/06/2026"
+      },
+      {
+        "id": "P0065",
+        "title": "Pepsico Dairy Item #65",
+        "brand": "Pepsico",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b94871",
+        "net_quantity": "449 Units",
+        "unit": "Units",
+        "manufacturer": "Pepsico India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@pepsico.com",
+          "phone": "1800-82-1986"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 76,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin",
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "26/06/2026"
+      },
+      {
+        "id": "P0066",
+        "title": "Pepsico Electronics Item #66",
+        "brand": "Pepsico",
+        "category": "Electronics",
+        "image_url": null,
+        "mrp": "\u20b91336",
+        "net_quantity": "255 kg",
+        "unit": "kg",
+        "manufacturer": "Pepsico India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@pepsico.com",
+          "phone": "1800-80-2229"
+        },
+        "mfg_date": "25/02/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "04/08/2026"
+      },
+      {
+        "id": "P0067",
+        "title": "Pepsico Dairy Item #67",
+        "brand": "Pepsico",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b92366",
+        "net_quantity": null,
+        "unit": "L",
+        "manufacturer": "Pepsico India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@pepsico.com",
+          "phone": "1800-68-2166"
+        },
+        "mfg_date": "31/08/2024",
+        "importer": null,
+        "compliance_score": 88,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity"
+        ],
+        "last_checked_date": "21/07/2026"
+      },
+      {
+        "id": "P0068",
+        "title": "Pepsico Snacks Item #68",
+        "brand": "Pepsico",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "673 Units",
+        "unit": "Units",
+        "manufacturer": "Pepsico India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": "05/11/2025",
+        "importer": null,
+        "compliance_score": 78,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "MRP",
+          "Consumer Care Details"
+        ],
+        "last_checked_date": "13/06/2026"
+      },
+      {
+        "id": "P0069",
+        "title": "Pepsico Staples Item #69",
+        "brand": "Pepsico",
+        "category": "Staples",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "715 g",
+        "unit": "g",
+        "manufacturer": "Pepsico India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@pepsico.com",
+          "phone": "1800-99-7594"
+        },
+        "mfg_date": "30/10/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 70,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin",
+          "MRP"
+        ],
+        "last_checked_date": "03/07/2026"
+      },
+      {
+        "id": "P0070",
+        "title": "Pepsico Beverages Item #70",
+        "brand": "Pepsico",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b92690",
+        "net_quantity": "628 L",
+        "unit": "L",
+        "manufacturer": "Pepsico India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@pepsico.com",
+          "phone": "1800-13-2496"
+        },
+        "mfg_date": "13/12/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "22/06/2026"
+      }
+    ]
+  },
+  {
+    "id": "S008",
+    "name": "Prerna Retail",
+    "platform": "Amazon",
+    "compliance_score": 91,
+    "star_rating": 4.5,
+    "is_verified": true,
+    "product_count": 6,
+    "active_since": "03/03/2023",
+    "total_compliance_checks": 41,
+    "products": [
+      {
+        "id": "P0071",
+        "title": "ITC Staples Item #71",
+        "brand": "ITC",
+        "category": "Staples",
+        "image_url": null,
+        "mrp": "\u20b94078",
+        "net_quantity": null,
+        "unit": "L",
+        "manufacturer": "ITC India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": "10/04/2025",
+        "importer": null,
+        "compliance_score": 72,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity",
+          "Consumer Care Details"
+        ],
+        "last_checked_date": "13/07/2026"
+      },
+      {
+        "id": "P0072",
+        "title": "ITC Dairy Item #72",
+        "brand": "ITC",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b92751",
+        "net_quantity": "431 ml",
+        "unit": "ml",
+        "manufacturer": "ITC India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@itc.com",
+          "phone": "1800-73-5722"
+        },
+        "mfg_date": "25/09/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "05/06/2026"
+      },
+      {
+        "id": "P0073",
+        "title": "ITC Dairy Item #73",
+        "brand": "ITC",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b92698",
+        "net_quantity": "128 Units",
+        "unit": "Units",
+        "manufacturer": "ITC India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@itc.com",
+          "phone": "1800-61-9431"
+        },
+        "mfg_date": "03/08/2026",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "23/06/2026"
+      },
+      {
+        "id": "P0074",
+        "title": "ITC Beverages Item #74",
+        "brand": "ITC",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b91717",
+        "net_quantity": "283 L",
+        "unit": "L",
+        "manufacturer": "ITC India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@itc.com",
+          "phone": "1800-26-5719"
+        },
+        "mfg_date": null,
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 84,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture",
+          "Country of Origin"
+        ],
+        "last_checked_date": "07/07/2026"
+      },
+      {
+        "id": "P0075",
+        "title": "ITC Beverages Item #75",
+        "brand": "ITC",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b92595",
+        "net_quantity": "574 g",
+        "unit": "g",
+        "manufacturer": "ITC India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@itc.com",
+          "phone": "1800-80-7684"
+        },
+        "mfg_date": null,
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 90,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "30/07/2026"
+      },
+      {
+        "id": "P0076",
+        "title": "ITC Confectionery Item #76",
+        "brand": "ITC",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b94132",
+        "net_quantity": "965 g",
+        "unit": "g",
+        "manufacturer": "ITC India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@itc.com",
+          "phone": "1800-47-9337"
+        },
+        "mfg_date": "12/08/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "18/07/2026"
+      }
+    ]
+  },
+  {
+    "id": "S009",
+    "name": "Shopsy Direct",
+    "platform": "Flipkart",
+    "compliance_score": 92,
+    "star_rating": 4.6,
+    "is_verified": true,
+    "product_count": 9,
+    "active_since": "11/06/2025",
+    "total_compliance_checks": 43,
+    "products": [
+      {
+        "id": "P0077",
+        "title": "HUL Beverages Item #77",
+        "brand": "HUL",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b9621",
+        "net_quantity": "292 Units",
+        "unit": "Units",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-63-6568"
+        },
+        "mfg_date": "03/03/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "18/07/2026"
+      },
+      {
+        "id": "P0078",
+        "title": "HUL Personal Care Item #78",
+        "brand": "HUL",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b92877",
+        "net_quantity": null,
+        "unit": "ml",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-80-9903"
+        },
+        "mfg_date": "14/07/2025",
+        "importer": null,
+        "compliance_score": 70,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Net Quantity",
+          "Country of Origin"
+        ],
+        "last_checked_date": "06/07/2026"
+      },
+      {
+        "id": "P0079",
+        "title": "HUL Biscuits Item #79",
+        "brand": "HUL",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b91963",
+        "net_quantity": "886 kg",
+        "unit": "kg",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-62-1715"
+        },
+        "mfg_date": "13/09/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "18/06/2026"
+      },
+      {
+        "id": "P0080",
+        "title": "HUL Beverages Item #80",
+        "brand": "HUL",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b91084",
+        "net_quantity": "524 L",
+        "unit": "L",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-52-2644"
+        },
+        "mfg_date": "11/05/2025",
+        "importer": null,
+        "compliance_score": 92,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin"
+        ],
+        "last_checked_date": "29/07/2026"
+      },
+      {
+        "id": "P0081",
+        "title": "HUL Beverages Item #81",
+        "brand": "HUL",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "810 g",
+        "unit": "g",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-53-7512"
+        },
+        "mfg_date": "08/10/2024",
+        "importer": null,
+        "compliance_score": 85,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "MRP"
+        ],
+        "last_checked_date": "30/07/2026"
+      },
+      {
+        "id": "P0082",
+        "title": "HUL Biscuits Item #82",
+        "brand": "HUL",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b94482",
+        "net_quantity": "46 Units",
+        "unit": "Units",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-18-4846"
+        },
+        "mfg_date": "27/10/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "22/06/2026"
+      },
+      {
+        "id": "P0083",
+        "title": "HUL Snacks Item #83",
+        "brand": "HUL",
+        "category": "Snacks",
+        "image_url": null,
+        "mrp": "\u20b93684",
+        "net_quantity": "180 kg",
+        "unit": "kg",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-48-1474"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 91,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "02/08/2026"
+      },
+      {
+        "id": "P0084",
+        "title": "HUL Biscuits Item #84",
+        "brand": "HUL",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b92050",
+        "net_quantity": "553 g",
+        "unit": "g",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-82-3950"
+        },
+        "mfg_date": "11/02/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "24/07/2026"
+      },
+      {
+        "id": "P0085",
+        "title": "HUL Electronics Item #85",
+        "brand": "HUL",
+        "category": "Electronics",
+        "image_url": null,
+        "mrp": "\u20b91952",
+        "net_quantity": "482 Units",
+        "unit": "Units",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-42-8529"
+        },
+        "mfg_date": "16/11/2025",
+        "importer": null,
+        "compliance_score": 90,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin"
+        ],
+        "last_checked_date": "23/06/2026"
+      }
+    ]
+  },
+  {
+    "id": "S010",
+    "name": "Amazon Retail India",
+    "platform": "Amazon",
+    "compliance_score": 89,
+    "star_rating": 4.5,
+    "is_verified": false,
+    "product_count": 10,
+    "active_since": "03/06/2023",
+    "total_compliance_checks": 28,
+    "products": [
+      {
+        "id": "P0086",
+        "title": "Colgate Staples Item #86",
+        "brand": "Colgate",
+        "category": "Staples",
+        "image_url": null,
+        "mrp": "\u20b93525",
+        "net_quantity": "716 g",
+        "unit": "g",
+        "manufacturer": "Colgate India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@colgate.com",
+          "phone": "1800-68-5949"
+        },
+        "mfg_date": "13/01/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "11/07/2026"
+      },
+      {
+        "id": "P0087",
+        "title": "Colgate Beverages Item #87",
+        "brand": "Colgate",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b93292",
+        "net_quantity": "291 g",
+        "unit": "g",
+        "manufacturer": "Colgate India Pvt Ltd",
+        "manufacturer_address": null,
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@colgate.com",
+          "phone": "1800-11-1803"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 84,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture",
+          "Manufacturer Address"
+        ],
+        "last_checked_date": "07/06/2026"
+      },
+      {
+        "id": "P0088",
+        "title": "Colgate Beverages Item #88",
+        "brand": "Colgate",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b91844",
+        "net_quantity": "661 ml",
+        "unit": "ml",
+        "manufacturer": "Colgate India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@colgate.com",
+          "phone": "1800-89-5106"
+        },
+        "mfg_date": "09/09/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "17/06/2026"
+      },
+      {
+        "id": "P0089",
+        "title": "Colgate Staples Item #89",
+        "brand": "Colgate",
+        "category": "Staples",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "759 g",
+        "unit": "g",
+        "manufacturer": "Colgate India Pvt Ltd",
+        "manufacturer_address": "Whitefield, Bangalore, Karnataka - 560066",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@colgate.com",
+          "phone": "1800-21-5835"
+        },
+        "mfg_date": "04/09/2025",
+        "importer": null,
+        "compliance_score": 74,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin",
+          "MRP"
+        ],
+        "last_checked_date": "18/06/2026"
+      },
+      {
+        "id": "P0090",
+        "title": "Colgate Dairy Item #90",
+        "brand": "Colgate",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b91397",
+        "net_quantity": "273 kg",
+        "unit": "kg",
+        "manufacturer": "Colgate India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 76,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Consumer Care Details",
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "05/06/2026"
+      },
+      {
+        "id": "P0091",
+        "title": "Colgate Beverages Item #91",
+        "brand": "Colgate",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b93886",
+        "net_quantity": "996 ml",
+        "unit": "ml",
+        "manufacturer": "Colgate India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@colgate.com",
+          "phone": "1800-28-4696"
+        },
+        "mfg_date": "11/09/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "19/06/2026"
+      },
+      {
+        "id": "P0092",
+        "title": "Colgate Dairy Item #92",
+        "brand": "Colgate",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b93775",
+        "net_quantity": "387 Units",
+        "unit": "Units",
+        "manufacturer": "Colgate India Pvt Ltd",
+        "manufacturer_address": null,
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@colgate.com",
+          "phone": "1800-96-5295"
+        },
+        "mfg_date": "14/12/2024",
+        "importer": null,
+        "compliance_score": 91,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Manufacturer Address"
+        ],
+        "last_checked_date": "11/07/2026"
+      },
+      {
+        "id": "P0093",
+        "title": "Colgate Biscuits Item #93",
+        "brand": "Colgate",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b93853",
+        "net_quantity": null,
+        "unit": "g",
+        "manufacturer": "Colgate India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": "29/09/2025",
+        "importer": null,
+        "compliance_score": 82,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Consumer Care Details",
+          "Net Quantity"
+        ],
+        "last_checked_date": "24/06/2026"
+      },
+      {
+        "id": "P0094",
+        "title": "Colgate Dairy Item #94",
+        "brand": "Colgate",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "250 g",
+        "unit": "g",
+        "manufacturer": "Colgate India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@colgate.com",
+          "phone": "1800-27-7367"
+        },
+        "mfg_date": "27/04/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 82,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Country of Origin",
+          "MRP"
+        ],
+        "last_checked_date": "12/07/2026"
+      },
+      {
+        "id": "P0095",
+        "title": "Colgate Dairy Item #95",
+        "brand": "Colgate",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b9861",
+        "net_quantity": "863 Units",
+        "unit": "Units",
+        "manufacturer": "Colgate India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@colgate.com",
+          "phone": "1800-88-7686"
+        },
+        "mfg_date": "22/10/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "02/08/2026"
+      }
+    ]
+  },
+  {
+    "id": "S011",
+    "name": "Vijay Sales Online",
+    "platform": "Flipkart",
+    "compliance_score": 91,
+    "star_rating": 4.5,
+    "is_verified": true,
+    "product_count": 13,
+    "active_since": "07/10/2023",
+    "total_compliance_checks": 39,
+    "products": [
+      {
+        "id": "P0096",
+        "title": "HUL Confectionery Item #96",
+        "brand": "HUL",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "204 ml",
+        "unit": "ml",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": null,
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-68-2501"
+        },
+        "mfg_date": "25/09/2024",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 76,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "MRP",
+          "Country of Origin"
+        ],
+        "last_checked_date": "22/07/2026"
+      },
+      {
+        "id": "P0097",
+        "title": "HUL Personal Care Item #97",
+        "brand": "HUL",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b94675",
+        "net_quantity": "220 g",
+        "unit": "g",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-80-4394"
+        },
+        "mfg_date": "12/12/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "22/07/2026"
+      },
+      {
+        "id": "P0098",
+        "title": "HUL Confectionery Item #98",
+        "brand": "HUL",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b91114",
+        "net_quantity": "563 ml",
+        "unit": "ml",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": null,
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-42-3858"
+        },
+        "mfg_date": "14/04/2026",
+        "importer": null,
+        "compliance_score": 90,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Manufacturer Address"
+        ],
+        "last_checked_date": "23/06/2026"
+      },
+      {
+        "id": "P0099",
+        "title": "HUL Personal Care Item #99",
+        "brand": "HUL",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b9179",
+        "net_quantity": "188 kg",
+        "unit": "kg",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": "12/06/2026",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 87,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Consumer Care Details"
+        ],
+        "last_checked_date": "27/07/2026"
+      },
+      {
+        "id": "P0100",
+        "title": "HUL Dairy Item #100",
+        "brand": "HUL",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": "\u20b93015",
+        "net_quantity": "535 Units",
+        "unit": "Units",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-23-8405"
+        },
+        "mfg_date": "07/03/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "21/07/2026"
+      },
+      {
+        "id": "P0101",
+        "title": "HUL Personal Care Item #101",
+        "brand": "HUL",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "877 Units",
+        "unit": "Units",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-64-2768"
+        },
+        "mfg_date": "20/03/2025",
+        "importer": null,
+        "compliance_score": 85,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "MRP"
+        ],
+        "last_checked_date": "20/06/2026"
+      },
+      {
+        "id": "P0102",
+        "title": "HUL Beverages Item #102",
+        "brand": "HUL",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b9588",
+        "net_quantity": "139 g",
+        "unit": "g",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-89-9984"
+        },
+        "mfg_date": "05/08/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "15/07/2026"
+      },
+      {
+        "id": "P0103",
+        "title": "HUL Dairy Item #103",
+        "brand": "HUL",
+        "category": "Dairy",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "450 Units",
+        "unit": "Units",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-39-7779"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 78,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "MRP",
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "14/07/2026"
+      },
+      {
+        "id": "P0104",
+        "title": "HUL Beverages Item #104",
+        "brand": "HUL",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b92610",
+        "net_quantity": "691 L",
+        "unit": "L",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-57-3500"
+        },
+        "mfg_date": "31/08/2024",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "06/06/2026"
+      },
+      {
+        "id": "P0105",
+        "title": "HUL Beverages Item #105",
+        "brand": "HUL",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b9841",
+        "net_quantity": "772 g",
+        "unit": "g",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "SIPCOT Industrial Complex, Chennai, TN - 600001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-57-3131"
+        },
+        "mfg_date": "12/01/2025",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "01/08/2026"
+      },
+      {
+        "id": "P0106",
+        "title": "HUL Biscuits Item #106",
+        "brand": "HUL",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": null,
+        "net_quantity": "624 g",
+        "unit": "g",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-55-2697"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 76,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture",
+          "MRP"
+        ],
+        "last_checked_date": "29/06/2026"
+      },
+      {
+        "id": "P0107",
+        "title": "HUL Confectionery Item #107",
+        "brand": "HUL",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b92918",
+        "net_quantity": "875 kg",
+        "unit": "kg",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@hul.com",
+          "phone": "1800-57-2882"
+        },
+        "mfg_date": "23/10/2025",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "29/06/2026"
+      },
+      {
+        "id": "P0108",
+        "title": "HUL Confectionery Item #108",
+        "brand": "HUL",
+        "category": "Confectionery",
+        "image_url": null,
+        "mrp": "\u20b9287",
+        "net_quantity": "194 L",
+        "unit": "L",
+        "manufacturer": "HUL India Pvt Ltd",
+        "manufacturer_address": "Plot No. 12, Industrial Area, Noida, UP - 201301",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": "15/08/2024",
+        "importer": null,
+        "compliance_score": 88,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Consumer Care Details"
+        ],
+        "last_checked_date": "17/06/2026"
+      }
+    ]
+  },
+  {
+    "id": "S012",
+    "name": "GreenLine Traders",
+    "platform": "Amazon",
+    "compliance_score": 88,
+    "star_rating": 4.4,
+    "is_verified": false,
+    "product_count": 6,
+    "active_since": "22/01/2025",
+    "total_compliance_checks": 31,
+    "products": [
+      {
+        "id": "P0109",
+        "title": "LG Staples Item #109",
+        "brand": "LG",
+        "category": "Staples",
+        "image_url": null,
+        "mrp": "\u20b9801",
+        "net_quantity": "774 kg",
+        "unit": "kg",
+        "manufacturer": "LG India Pvt Ltd",
+        "manufacturer_address": "Salt Lake City, Kolkata, WB - 700091",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@lg.com",
+          "phone": "1800-37-7163"
+        },
+        "mfg_date": null,
+        "importer": null,
+        "compliance_score": 92,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "09/07/2026"
+      },
+      {
+        "id": "P0110",
+        "title": "LG Beverages Item #110",
+        "brand": "LG",
+        "category": "Beverages",
+        "image_url": null,
+        "mrp": "\u20b94699",
+        "net_quantity": "620 ml",
+        "unit": "ml",
+        "manufacturer": "LG India Pvt Ltd",
+        "manufacturer_address": "MIDC Estate, Pune, Maharashtra - 411001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@lg.com",
+          "phone": "1800-16-3549"
+        },
+        "mfg_date": "24/02/2026",
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "17/06/2026"
+      },
+      {
+        "id": "P0111",
+        "title": "LG Personal Care Item #111",
+        "brand": "LG",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b92287",
+        "net_quantity": "230 g",
+        "unit": "g",
+        "manufacturer": "LG India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": null,
+        "consumer_care": null,
+        "mfg_date": "26/02/2025",
+        "importer": null,
+        "compliance_score": 72,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Consumer Care Details",
+          "Country of Origin"
+        ],
+        "last_checked_date": "28/07/2026"
+      },
+      {
+        "id": "P0112",
+        "title": "LG Biscuits Item #112",
+        "brand": "LG",
+        "category": "Biscuits",
+        "image_url": null,
+        "mrp": "\u20b9422",
+        "net_quantity": "235 L",
+        "unit": "L",
+        "manufacturer": "LG India Pvt Ltd",
+        "manufacturer_address": "Kandivali East, Mumbai, Maharashtra - 400101",
+        "country_of_origin": "India",
+        "consumer_care": null,
+        "mfg_date": null,
+        "importer": "Global Trade Solutions Pvt Ltd",
+        "compliance_score": 76,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Consumer Care Details",
+          "Date of Manufacture"
+        ],
+        "last_checked_date": "27/06/2026"
+      },
+      {
+        "id": "P0113",
+        "title": "LG Personal Care Item #113",
+        "brand": "LG",
+        "category": "Personal Care",
+        "image_url": null,
+        "mrp": "\u20b92737",
+        "net_quantity": "132 g",
+        "unit": "g",
+        "manufacturer": "LG India Pvt Ltd",
+        "manufacturer_address": null,
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@lg.com",
+          "phone": "1800-10-9149"
+        },
+        "mfg_date": "21/05/2025",
+        "importer": null,
+        "compliance_score": 88,
+        "status": "Non-Compliant",
+        "missing_fields": [
+          "Manufacturer Address"
+        ],
+        "last_checked_date": "24/07/2026"
+      },
+      {
+        "id": "P0114",
+        "title": "LG Staples Item #114",
+        "brand": "LG",
+        "category": "Staples",
+        "image_url": null,
+        "mrp": "\u20b9640",
+        "net_quantity": "416 L",
+        "unit": "L",
+        "manufacturer": "LG India Pvt Ltd",
+        "manufacturer_address": "Sector 5, Gurgaon, Haryana - 122001",
+        "country_of_origin": "India",
+        "consumer_care": {
+          "email": "care@lg.com",
+          "phone": "1800-15-8147"
+        },
+        "mfg_date": "16/07/2026",
+        "importer": null,
+        "compliance_score": 100,
+        "status": "Compliant",
+        "missing_fields": [],
+        "last_checked_date": "06/07/2026"
+      }
+    ]
+  }
+]

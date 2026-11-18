@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic-settings
+python-dotenv
+sqlalchemy
+alembic
+psycopg2-binary
+requests
+beautifulsoup4
+tenacity
+playwright
+google-generativeai

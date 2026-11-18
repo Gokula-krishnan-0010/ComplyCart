@@ -1,0 +1,33 @@
+# Environment Files
+.env
+.env.*
+!.env.example
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.nox/
+.tox/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+ENV/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+
+# Operating System files
+.DS_Store
+Thumbs.db

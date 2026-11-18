@@ -1,0 +1,55 @@
+{
+  "rules": [
+    {
+      "field_name": "MRP",
+      "keys": ["mrp"],
+      "weight": 25,
+      "violated_clause": "Maximum Retail Price (MRP) must be clearly declared on the package under Legal Metrology Rules."
+    },
+    {
+      "field_name": "Net Quantity",
+      "keys": ["net_quantity"],
+      "weight": 25,
+      "violated_clause": "Net quantity of the commodity contained in the package must be declared under Legal Metrology Rules."
+    },
+    {
+      "field_name": "Manufacturer Name",
+      "keys": ["manufacturer"],
+      "weight": 8,
+      "violated_clause": "Name of the manufacturer must be declared on the package."
+    },
+    {
+      "field_name": "Manufacturer Address",
+      "keys": ["manufacturer_address"],
+      "weight": 7,
+      "violated_clause": "Complete address of the manufacturer must be declared on the package."
+    },
+    {
+      "field_name": "Country of Origin",
+      "keys": ["country_of_origin"],
+      "weight": 15,
+      "violated_clause": "Country of origin of the product must be specified for consumer awareness."
+    },
+    {
+      "field_name": "Consumer Care Details",
+      "keys": ["consumer_care_email", "consumer_care_phone"],
+      "require_all": false,
+      "weight": 10,
+      "violated_clause": "Consumer care details (email and/or phone) must be provided."
+    },
+    {
+      "field_name": "Date of Manufacture/Import",
+      "keys": ["mfg_date"],
+      "weight": 10,
+      "violated_clause": "Month and year of manufacture or import must be declared on the package."
+    },
+    {
+      "field_name": "Importer Details",
+      "keys": ["importer"],
+      "weight": 10,
+      "conditional_on": "is_imported",
+      "violated_clause": "Name and address of the importer must be declared for imported commodities."
+    }
+  ],
+  "compliance_threshold": 90
+}

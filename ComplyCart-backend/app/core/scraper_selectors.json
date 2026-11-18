@@ -1,0 +1,30 @@
+{
+  "amazon.in": {
+    "title_selectors": ["#productTitle", "h1#title", "span#productTitle"],
+    "price_selectors": [".a-price .a-offscreen", "#priceblock_ourprice", "#priceblock_dealprice", ".a-price-whole"],
+    "seller_selectors": ["#sellerProfileTriggerId", "#merchant-info", "a#sellerProfileTriggerId"],
+    "description_selectors": ["#feature-bullets", "#productDescription", "#technicalSpecifications_section_1", "#prodDetails", "#detailBullets_feature_div", "#productDetails_feature_div", "#detailBulletsWrapper_feature_div", "#apex_desktop", "#corePriceDisplay_desktop_feature_div", "#corePrice_desktop"],
+    "image_selectors": ["img#landingImage", "#imgTagWrapperId img", ".imgTagWrapper img"]
+  },
+  "amazon.com": {
+    "title_selectors": ["#productTitle", "h1#title", "span#productTitle"],
+    "price_selectors": [".a-price .a-offscreen", "#priceblock_ourprice", "#priceblock_dealprice", ".a-price-whole"],
+    "seller_selectors": ["#sellerProfileTriggerId", "#merchant-info", "a#sellerProfileTriggerId"],
+    "description_selectors": ["#feature-bullets", "#productDescription", "#technicalSpecifications_section_1", "#prodDetails", "#detailBullets_feature_div", "#productDetails_feature_div", "#detailBulletsWrapper_feature_div", "#apex_desktop", "#corePriceDisplay_desktop_feature_div", "#corePrice_desktop"],
+    "image_selectors": ["img#landingImage", "#imgTagWrapperId img", ".imgTagWrapper img"]
+  },
+  "flipkart.com": {
+    "title_selectors": [".B_NuCI", "span.B_NuCI", ".VU-ZEG"],
+    "price_selectors": ["._30jeq3._16Jk6d", "._30jeq3", ".Nx9qK0"],
+    "seller_selectors": ["#sellerName", "._1RLM2I", ".W50tIS"],
+    "description_selectors": ["._1mXF1I", ".RmoJUa", "._2o14nN", ".yN18Km"],
+    "image_selectors": ["._396cs4", "._2rM9cm", ".DByoED"]
+  },
+  "generic": {
+    "title_selectors": ["h1", "title", ".title"],
+    "price_selectors": ["[itemprop=\"price\"]", ".price", "#price", ".product-price"],
+    "seller_selectors": [".seller", ".merchant", ".store", "#seller"],
+    "description_selectors": ["#description", ".description", "article", "main", ".product-description"],
+    "image_selectors": ["img[itemprop=\"image\"]", ".product-image img", "img"]
+  }
+}
